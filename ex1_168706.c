@@ -1,3 +1,8 @@
+/*
+descricao: controle de compras de clientes usando structs e alocacao dinamica de vetores
+disciplina: algoritmos e estruturas de dados 1 - unifesp
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
