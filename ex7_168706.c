@@ -1,3 +1,8 @@
+/*
+descricao: reconstrucao de arvore binaria pelos percursos pre-ordem e em-ordem
+disciplina: algoritmos e estruturas de dados 1 - unifesp
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
