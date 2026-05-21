@@ -1,3 +1,8 @@
+/*
+descricao: simulador de calculadora utilizando pilha baseada em lista encadeada
+disciplina: algoritmos e estruturas de dados 1 - unifesp
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
