@@ -1,3 +1,8 @@
+/*
+descricao: gerenciamento de registros usando uma lista duplamente encadeada circular
+disciplina: algoritmos e estruturas de dados 1 - unifesp
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
