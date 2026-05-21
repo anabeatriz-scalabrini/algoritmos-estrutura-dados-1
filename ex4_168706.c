@@ -1,3 +1,8 @@
+/*
+descricao: gerenciador de multiplas pilhas usando uma lista encadeada de pilhas (merge e split)
+disciplina: algoritmos e estruturas de dados 1 - unifesp
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
