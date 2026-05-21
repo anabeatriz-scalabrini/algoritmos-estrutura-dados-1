@@ -1,3 +1,8 @@
+/*
+descricao: operacoes matematicas com matrizes esparsas otimizadas atraves de listas encadeadas
+disciplina: algoritmos e estruturas de dados 1 - unifesp
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
