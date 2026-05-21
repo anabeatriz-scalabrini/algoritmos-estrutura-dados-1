@@ -1,3 +1,8 @@
+/*
+descricao: sistema de fila de chamados implementado com alocacao dinamica
+disciplina: algoritmos e estruturas de dados 1 - unifesp
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
